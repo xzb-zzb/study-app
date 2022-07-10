@@ -63,7 +63,6 @@
                 <version>2.5.3</version>
                 <configuration>
                     <fork>true</fork>
-                    <skipTests>true</skipTests>
                 </configuration>
             </plugin>
         </plugins>
